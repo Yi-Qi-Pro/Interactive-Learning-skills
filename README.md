@@ -7,7 +7,7 @@
 Linux、网络、KVM、OpenStack、华为云 Stack、Kubernetes、Docker、存储、数据库、云运维面试等。并不限定领域。
 
 ## skills概述
-<img width="776" height="1057" alt="image" src="https://github.com/user-attachments/assets/25168af0-4d77-42dc-b552-572a26bf8dd0" />
+<img width="1199" height="1312" alt="Interactive Learning Flow Infographic" src="https://github.com/user-attachments/assets/4e606dff-5b33-49c6-903d-b6f271afeec9" />
 
 ## 安装
 
