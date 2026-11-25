@@ -1,0 +1,21 @@
+# 按实际学习情况填写；本文件是模板，不代表已经学习。
+course: ""
+reference_materials: []
+product_version: "待确认"
+current_module: ""
+current_chapter: ""
+phase: "等待参考资料" # 大纲 / 讲解中 / 待确认理解 / 互动中 / 待笔记 / 已完成
+chapter_status:
+  - id: "01"
+    title: ""
+    status: "未开始"
+    taught_topics: []
+    pending_topics: []
+    verified_topics: []
+    weak_topics: []
+    notes_file: ""
+interaction:
+  started_with_user_consent: false
+  questions_asked: 0
+  evidence: []
+next_action: "等待用户提供参考资料并生成学习大纲"
