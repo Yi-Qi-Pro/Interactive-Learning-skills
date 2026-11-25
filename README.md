@@ -6,6 +6,9 @@
 
 Linux、网络、KVM、OpenStack、华为云 Stack、Kubernetes、Docker、存储、数据库、云运维面试等。并不限定领域。
 
+## skills概述
+<img width="776" height="1057" alt="image" src="https://github.com/user-attachments/assets/25168af0-4d77-42dc-b552-572a26bf8dd0" />
+
 ## 安装
 
 解压后保留整个 `Interactive-Learning-skills/` 文件夹及其 `references/`、`templates/`。在支持 Agent Skills 的客户端选择导入整个技能目录，或放入其指定的 skills 目录。
